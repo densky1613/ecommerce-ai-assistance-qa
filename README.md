@@ -91,6 +91,6 @@ AI-generated responses may vary between runs. Evaluation is based on explicit re
 Public-facing testing cannot establish the assistant’s internal architecture or model configuration.
 Conclusion
 This project demonstrates a structured approach to quality assurance for conversational systems in e-commerce, combining traditional software testing with AI-specific evaluation.
-Author: [Your Name]
+Author: Denys Lytvynenko
 Role: QA Engineer
 Repository: E-commerce AI Assistant QA
